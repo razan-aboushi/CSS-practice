@@ -28,19 +28,4 @@
     overflow: hidden;
 }
 
-button {
-    border: black solid 2px;
-    padding: 10px 15px;
-    font-weight: bold;
-    width: 80px;
 
-}
-
-
-.center {
-   margin-left: 600px;
-}
- 
-button a {
-    text-decoration: none;
-}
