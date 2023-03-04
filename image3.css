@@ -31,3 +31,65 @@ ul ul ul li {
     list-style-type: none;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.buttonS {
+    background-color: #e8518b;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    margin:40px;
+    margin-left: 80px;
+    outline: none;
+    padding: 5px 10px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: color 100ms;
+    vertical-align: baseline;
+    touch-action: manipulation;
+  }
+  
+  .buttonS:hover,
+  .buttonS:focus {
+    background-color: #F082AC;
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: bold;
+  }
