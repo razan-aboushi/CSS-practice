@@ -1,0 +1,40 @@
+td,
+tr {
+    border-radius: 5px;
+    padding: 2px;
+    border: 1px solid #000;
+}
+
+th {
+    border: none;
+}
+
+table {
+    border: none;
+    border-collapse: separate;
+    border-spacing: 5px;
+}
+
+caption {
+    text-align: left;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+button {
+    border: black solid 2px;
+    padding: 5px 5px;
+    font-weight: bold;
+    margin: 30px 50px;
+}
+
+
+
+td {
+    box-shadow: 3px 1px 1px 0px #ccc;
+}
+
+button a {
+    text-decoration: none;
+}

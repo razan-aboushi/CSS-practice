@@ -1,0 +1,33 @@
+h1 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+p a {
+
+    color:orange;
+}
+
+#uniqeLink a {
+    color: brown;
+    background-color: yellow;
+}
+
+li a {
+
+    color:red;
+}
+
+.boldLI {
+    font-weight: bold;
+}
+
+ul ul li {
+    color: blue;
+}
+
+ul ul ul li {
+    list-style-type: none;
+}
+
