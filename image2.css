@@ -1,8 +1,9 @@
 .container {
     background-color:#FCFFE7;
     border-right: black 4px solid;
+    width: 80%;
     overflow: hidden;
-     width: 80%;
+    
   
 }
 
@@ -31,8 +32,10 @@ button {
     border: black solid 2px;
     padding: 10px 15px;
     font-weight: bold;
+    width: 80px;
 
 }
+
 
 .center {
    margin-left: 600px;

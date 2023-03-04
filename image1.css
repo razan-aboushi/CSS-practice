@@ -27,12 +27,13 @@ button {
     padding: 5px 5px;
     font-weight: bold;
     margin: 30px 50px;
+    width: 80px;
 }
 
 
-
 td {
-    box-shadow: 3px 1px 1px 0px #ccc;
+
+    box-shadow: 3px 1px 1px 0px #979292;
 }
 
 button a {
