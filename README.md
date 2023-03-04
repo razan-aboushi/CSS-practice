@@ -1,4 +1,4 @@
-### #We Create an HTML and CSS files for each image.
+### We Create an HTML and CSS files for each image.
 
 ### I used the following tools to get this done:
 * VS code.
