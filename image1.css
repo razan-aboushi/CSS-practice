@@ -1,5 +1,4 @@
-td,
-tr {
+td,tr {
     border-radius: 5px;
     padding: 2px;
     border: 1px solid #000;
@@ -25,7 +24,7 @@ caption {
 
 td {
 
-    box-shadow: 3px 1px 1px 0px #979292;
+    box-shadow: 3px 3px 1px rgba(0,0,0,0.4);
 }
 
 
