@@ -1,7 +1,8 @@
 .container {
     background-color:#FCFFE7;
     border-right: black 4px solid;
-    width: 80%;
+    width: 60%;
+    height:500px;
     overflow: hidden;
     
   
@@ -20,11 +21,11 @@
 
 .flow {
     display: inline-block;
-    background-color: #cdcbcb6e;
-    width: 300px;
+    background-color: #f3e7e7a3;
+    width: 250px;
     background: rgb(211, 211, 211);
     margin: 10px;
-    height: 140px;
+    height: 100px;
     overflow: hidden;
 }
 
@@ -51,7 +52,7 @@
     height: 40px;
     line-height: 20px;
     margin:40px;
-    margin-left: 350px;
+    margin-left: 250px;
     outline: none;
     padding: 5px 10px;
     position: relative;
