@@ -9,6 +9,8 @@
 }
 
 
+
+
 .inside {
     border-top: black solid 2px;
     border-bottom: black solid 2px;
@@ -19,7 +21,7 @@
     height: 60px;
 }
 
-.flow {
+.flow article{
     display: inline-block;
     background-color: #f3e7e7a3;
     width: 240px;
