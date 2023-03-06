@@ -1,38 +1,37 @@
 
 .container
 {
-    color: white;
     font-weight: bold;
     font-size: 20px;
-
+    
 }
+
 
 h3 {
     display: inline-block;
     font-weight: bold;
 }
 
-.odd div:nth-child(odd) {
-    display: inline-block;
-    background-color: red;
-    width: 80px;
-    height: 20px;
-    border:2px black solid;
+.roz{
+    width: 70px;
+    height: 30px;
     text-align: center;
+    padding: 10px;
+    background-color: red;
     color: white;
-    font-weight: bold;
+    display: inline-block;
+    border: 2px solid black;
     padding-top: 5px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     margin-bottom: 20px;
+
 }
 
-.odd div:nth-child(even) {
-    background-color: red;
-    width: 80px;
-    height: 20px;
+.roz:nth-child(even){
     display: none;
-    border:2px black solid;
-    text-align: center;
-
 
 }
+
+
+
+
